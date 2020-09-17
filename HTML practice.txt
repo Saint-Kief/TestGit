@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <title> Spin-off of "Love confession"</title>
+        <meta charset="utf-8">
+        <style>
+        h1{
+            color: rgb(143, 129, 21);
+        }
+            body {
+                background-color: rgb(255, 186, 218);
+            }
+            
+        h3{
+            color: rgb(255, 0, 0);
+        }
+        </style>
+    </head>
+    <img src="https://www.kasandbox.org/programming-images/food/strawberries.png" width="317"><br>
+    <strong><em>This picture represent the taste and<br> the color of your lips</em></strong>
+    
+    <body>
+    <h1>Hello Roshnie</h1>
+    <p>How are you doing?<br>
+        I was wondering how was day today?<br>
+        Because there is a <strong>certain somebody</strong>,<br> thats been thinking a lot about you in this days.<br> I hope it doesnt <em>freak</em> you out :).</p>
+        
+    <h2>Commication</h2>
+    <p>Try give that <strong>certain somebody</strong> a call cause,<br> 
+    he prodably <strong><em>misses</em></strong> you,<br>
+    like a lot ;D</p>
+    <p>You have his number so just call,<br>
+        But only when you the time to do so :3</p>
+        
+    <h3>Relationships goal!</h3>
+    
+    <ul>
+        <li>Marriage</li>
+        
+    </ul>
+    <ol>
+
+        <li>Living together</li>
+    <li>Shopping together</li>
+    <li>Experement each other</li>
+    <li>Making food together</li>
+    
+    
+    </ol>
+    
+    
+        
+    <h4>Best regards<br>
+    YoursTruly
+    </h4>
+    
+    
+        
+    
+    </body>
+</html> 
