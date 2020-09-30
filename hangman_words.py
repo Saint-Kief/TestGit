@@ -7,7 +7,4 @@ def get_words():
              "border", "literature", "throne", "computer", "binary", "number", "galaxies"]
 
     return random.choice(words)
-    
-
-
-    
+ 
